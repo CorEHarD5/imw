@@ -44,5 +44,3 @@
 <h2>4.Resultado final<h2>
 
 ![imagen](./img/captura6.PNG)
-
-Link de la [página](alu5604.me/series)
