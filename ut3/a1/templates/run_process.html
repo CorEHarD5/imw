@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+.txt{
+	color: #9CD009;
+    font-size:22px;
+    text-align:center;
+    padding-top:10px;
+    padding-left:15px;
+    text-shadow:1px 1px 1px #444;
+}
+.button{ 
+	background:#9CD009;
+	padding:10px;
+	color:black;
+	border-radius:15px;
+	margin-left: 240px; 
+}
+</style>
+	<form method="post" action="/run_process">
+		<table>
+		<tr><td>
+		<span class="txt">PID</span>
+		<td><input type="text" name="pid"></td>
+		</tr></td>
+		<tr><td>
+		<spam class="txt">RAM</spam>
+		<td><input type="text" name="ram"></td>
+		</tr></td>
+		<tr><td>
+		<spam class="txt">CPU</spam>
+		<td><input type="text" name="cpu"></td>
+		</tr></td>
+		<tr><td>
+		<spam class="txt">HDD</spam>
+		<td><input type="text" name="hdd"></td>
+		</tr></td>
+		</table>
+
+		<input class="button" type="submit" value="Ejecutar!">
+	</form>
+</html>
