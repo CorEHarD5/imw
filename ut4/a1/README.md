@@ -1,4 +1,4 @@
-#Implantación de Wordpress
+# Implantación de Wordpress
 
 * Para instalar *Wordpress* necesitamos crearle un usuario y contraseña para que acceda a la base de datos.Para ello utilizaremos *Mysql*.
 
@@ -156,4 +156,4 @@
 
 ![imagen](./img/captura44.PNG)
 
-![imagen](./img/captura45.PNG)
+![imagen](./img/captura45u.PNG)
