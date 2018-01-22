@@ -1,6 +1,6 @@
 # Implantación de Wordpress
 
-* Para instalar *Wordpress* necesitamos crearle un usuario y contraseña para que acceda a la base de datos.Para ello utilizaremos *Mysql*.
+* Para instalar *Wordpress* necesitamos crearle un usuario y contraseña para que acceda a la base de datos. Para ello utilizaremos *Mysql*.
 
 ![imagen](./img/captura1.PNG)
 
@@ -30,7 +30,7 @@
 
 ![imagen](./img/captura9.PNG)
 
-* Para que nuestro sitio *Wordpress* sea accesible desde un navegador web, debemos incluir las directivas necesarias en la configuración del servidor web *Nginx*.Para ello tendremos que crear un nuevo virtual host de la siguiente manera:
+* Para que nuestro sitio *Wordpress* sea accesible desde un navegador web, debemos incluir las directivas necesarias en la configuración del servidor web *Nginx*. Tenemos que crear un nuevo virtual host de la siguiente manera:
 
 ![imagen](./img/captura10.PNG)
 
@@ -64,11 +64,11 @@
 
 ![imagen](./img/captura18.PNG)
 
-* Una vez dentro de la interfaz administrativa, vamos a descargarnos un tema e instalarlo.Para ello pinchamos sobre `cambia tu tema por completo`.
+* Una vez dentro de la interfaz administrativa, vamos a descargarnos un tema e instalarlo. Para ello pinchamos sobre `cambia tu tema por completo`.
 
 ![imagen](./img/captura19.PNG)
 
-* Seguidamente seleccionamos algún tema de wordpress.Y pulsamos en `Instalar y previsualizar`.
+* Seguidamente seleccionamos algún tema de wordpress. Y pulsamos en `Instalar y previsualizar`.
 
 ![imagen](./img/captura20.PNG)
 
@@ -90,7 +90,7 @@
 
 ![imagen](./img/captura25.PNG)
 
-* Ahora vamos a configurar los enlaces permanentes.Nos situamos en el `Escritorio` de nuesto *Wordpress*.
+* Ahora vamos a configurar los enlaces permanentes. Nos situamos en el `Escritorio` de nuesto *Wordpress*.
 
 ![imagen](./img/captura26.PNG)
 
@@ -114,7 +114,7 @@
 
 ![imagen](./img/captura32.PNG)
 
-* Ahora vamos a cambiar el límite de tamaño en la subida de archivos.Para incrementarlo, debemos hacer lo  siguiente, como `root` en la *máquina de producción*:
+* Ahora vamos a cambiar el límite de tamaño en la subida de archivos. Para incrementarlo, debemos hacer lo  siguiente, como `root` en la *máquina de producción*:
 
 ![imagen](./img/captura33.PNG)
 
@@ -138,7 +138,7 @@
 
 ![imagen](./img/captura32.PNG)
 
-* Ahora vamos a añadir un post con  las estadísticas de uso de *Wordpress*. Para ello pulsamos en lo siguiente:
+* Ahora vamos a añadir un post con  las estadísticas de uso de *Wordpress*. Para ello pulsamos  lo siguiente:
 
 ![imagen](./img/captura40.PNG)
 
@@ -150,7 +150,7 @@
 
 ![imagen](./img/captura42.PNG)
 
-* Una vez publicado, nos saldra una notificación, la cual aprovecharemos para ver el resultado final del post.
+* Una vez publicado, nos saldrá una notificación, la cual aprovecharemos para ver el resultado final del post.
 
 ![imagen](./img/captura43.PNG)
 
