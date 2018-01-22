@@ -156,4 +156,4 @@
 
 ![imagen](./img/captura44.PNG)
 
-![imagen](./img/captura45u.PNG)
+![imagen](./img/captura45.PNG)
